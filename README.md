@@ -6,6 +6,6 @@ Some placeholder text here.
 
 Some placeholder text here. Some placeholder text here. Some placeholder text here.
 
-## This is the second\u00A0heading
+## This is the second heading
 
 Some placeholder text here. Some placeholder text here. Some placeholder text here.
